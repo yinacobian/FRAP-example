@@ -20,7 +20,7 @@ Simple FRAP example
 
 3. Download FRAP
 
-`git clone `
+`git clone https://github.com/yinacobian/FRAP-basic.git`
 
 5. Download a database
 
