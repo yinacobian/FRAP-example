@@ -25,13 +25,17 @@ Simple FRAP example
 5. Download a database
 
 `mkdir DB`
-`wget `
+`wget https://ftp.ncbi.nlm.nih.gov/refseq/release/viral/viral.1.1.genomic.fna.gz`
+`gunzip viral.1.1.genomic.fna.gz`
 
 6. Download a dataset
 
 `mkdir DS`
-`wget `
+`cp `
 
-7. Prepare FRAP folders
+7. Run FRAP
+
+`cd /home/ana/bin/FRAP-basic`
+`perl jmf4.pl`
 
 
