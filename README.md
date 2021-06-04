@@ -5,7 +5,7 @@ Simple FRAP example
 
 `mkdir bin`
 
-2. Download smalt
+1. Download smalt
 
 `cd bin` 
 
@@ -19,11 +19,11 @@ Simple FRAP example
 
 `export PATH=$PATH:/home/ana/bin/smalt-0.7.6/src`
 
-3. Download FRAP
+2. Download FRAP
 
 `git clone https://github.com/yinacobian/FRAP-basic.git`
 
-5. Download a database
+3. Download a database
 
 `mkdir DB`
 
@@ -35,7 +35,7 @@ Simple FRAP example
 
 `mv viral.1.1.genomic.fna viralrefseq1`
 
-6. Download a dataset
+4. Download a dataset
 
 `mkdir DS`
 
@@ -44,7 +44,7 @@ Simple FRAP example
 `cp /home/ana/FRAPexample/DS .`
 
 
-7. Run FRAP
+5. Run FRAP
 
 `cd /home/ana/bin/FRAP-basic`
 
