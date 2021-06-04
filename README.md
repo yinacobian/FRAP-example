@@ -47,6 +47,7 @@ Simple FRAP example
 7. Run FRAP
 
 `cd /home/ana/bin/FRAP-basic`
+
 `perl jmf4.pl /home/ana/FRAPexample/DB/viralrefseq.fasta /home/ana/FRAPexample/DS /home/ana/FRAPexample/example-refseq smalt 50000`
 
 
