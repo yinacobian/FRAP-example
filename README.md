@@ -2,6 +2,15 @@
 Simple FRAP example
 
 1. Download smalt
-2. Download FRAP
-3. Download a database
-4. Download a dataset
+
+'wget '
+
+3. Download FRAP
+
+'git clone '
+
+5. Download a database
+
+'wget '
+
+6. Download a dataset
