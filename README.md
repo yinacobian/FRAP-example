@@ -8,7 +8,7 @@ Simple FRAP example
 2. Download smalt
 `cd bin` 
 
-`wget wget https://sourceforge.net/projects/smalt/files/smalt-0.7.6-static.tar.gz`
+`wget https://sourceforge.net/projects/smalt/files/smalt-0.7.6-static.tar.gz`
 
 `tar -xvf smalt-0.7.6-static.tar.gz`
 
