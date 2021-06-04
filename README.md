@@ -6,12 +6,18 @@ Simple FRAP example
 `mkdir bin`
 
 2. Download smalt
-`cd bin`
+`cd bin` 
+
 `wget wget https://sourceforge.net/projects/smalt/files/smalt-0.7.6-static.tar.gz`
+
 `tar -xvf smalt-0.7.6-static.tar.gz`
+
 `cd smalt-0.7.6`
+
 `./configure --prefix=/home/ana/bin`
+
 `export PATH=$PATH:/home/ana/bin/smalt-0.7.6/src`
+
 3. Download FRAP
 
 `git clone `
