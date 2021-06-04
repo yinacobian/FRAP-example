@@ -6,6 +6,7 @@ Simple FRAP example
 `mkdir bin`
 
 2. Download smalt
+
 `cd bin` 
 
 `wget https://sourceforge.net/projects/smalt/files/smalt-0.7.6-static.tar.gz`
